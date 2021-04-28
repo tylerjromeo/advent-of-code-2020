@@ -1,5 +1,5 @@
 package org.romeo.adventofcode
-package day1
+package solutions
 
 import common.Puzzle
 
